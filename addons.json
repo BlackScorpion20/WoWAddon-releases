@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "addons": [
+    {
+      "name": "EllesmereUI",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "1477613"
+        }
+      ]
+    },
+    {
+      "name": "Forever",
+      "title": "Forever: Your Journey.",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "stpain/Forever"
+        },
+        {
+          "kind": "curseforge",
+          "ref": "1712490"
+        }
+      ]
+    },
+    {
+      "name": "ForeverBestiary",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "1736267"
+        }
+      ]
+    },
+    {
+      "name": "ForeverCore",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "cjber/forever-core"
+        },
+        {
+          "kind": "curseforge",
+          "ref": "1796337"
+        }
+      ]
+    },
+    {
+      "name": "ForeverFishing",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "1708816"
+        }
+      ]
+    },
+    {
+      "name": "GatheringTracker",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "406104"
+        }
+      ]
+    },
+    {
+      "name": "OpenMap",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "openmap-world/openmap"
+        },
+        {
+          "kind": "curseforge",
+          "ref": "1735937"
+        }
+      ]
+    },
+    {
+      "name": "Pawn",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "4646"
+        }
+      ]
+    },
+    {
+      "name": "Polestar",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "fitzforge/polestar"
+        }
+      ]
+    },
+    {
+      "name": "Polestar_Nav",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "fitzforge/polestar"
+        }
+      ]
+    },
+    {
+      "name": "Questie",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "334372"
+        }
+      ]
+    },
+    {
+      "name": "QuestieDB",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "Questie/QuestieDB"
+        }
+      ]
+    },
+    {
+      "name": "RXPGuides",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "486246"
+        }
+      ]
+    },
+    {
+      "name": "ShortestPathForever",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "cjber/shortest-path-forever"
+        },
+        {
+          "kind": "curseforge",
+          "ref": "1708599"
+        }
+      ]
+    }
+  ]
+}
