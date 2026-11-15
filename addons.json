@@ -11,6 +11,20 @@
       ]
     },
     {
+      "name": "FarmHud",
+      "title": "FarmHud",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "HizurosWoWAddOns/FarmHud"
+        },
+        {
+          "kind": "curseforge",
+          "ref": "29767"
+        }
+      ]
+    },
+    {
       "name": "Forever",
       "title": "Forever: Your Journey.",
       "sources": [
@@ -65,6 +79,20 @@
       ]
     },
     {
+      "name": "GatherMate2",
+      "title": "GatherMate2",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "Nevcairiel/GatherMate2"
+        },
+        {
+          "kind": "curseforge",
+          "ref": "26120"
+        }
+      ]
+    },
+    {
       "name": "OpenMap",
       "sources": [
         {
@@ -105,6 +133,16 @@
       ]
     },
     {
+      "name": "ProfessionMaster",
+      "title": "Profession Master - Guild Craft \u0026 Personal Trade Skills",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "574050"
+        }
+      ]
+    },
+    {
       "name": "Questie",
       "sources": [
         {
@@ -119,6 +157,20 @@
         {
           "kind": "github",
           "ref": "Questie/QuestieDB"
+        }
+      ]
+    },
+    {
+      "name": "Routes",
+      "title": "Routes",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "Nevcairiel/Routes"
+        },
+        {
+          "kind": "curseforge",
+          "ref": "14599"
         }
       ]
     },
@@ -141,6 +193,26 @@
         {
           "kind": "curseforge",
           "ref": "1708599"
+        }
+      ]
+    },
+    {
+      "name": "TradeSkillMaster",
+      "title": "TradeSkillMaster",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "26886"
+        }
+      ]
+    },
+    {
+      "name": "WhatsTraining",
+      "title": "What's Training?",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "324944"
         }
       ]
     }
