@@ -2,6 +2,16 @@
   "version": 1,
   "addons": [
     {
+      "name": "Baganator",
+      "title": "Baganator",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "914482"
+        }
+      ]
+    },
+    {
       "name": "EllesmereUI",
       "sources": [
         {
@@ -39,15 +49,6 @@
       ]
     },
     {
-      "name": "ForeverBestiary",
-      "sources": [
-        {
-          "kind": "curseforge",
-          "ref": "1736267"
-        }
-      ]
-    },
-    {
       "name": "ForeverCore",
       "sources": [
         {
@@ -61,20 +62,21 @@
       ]
     },
     {
+      "name": "ForeverDungeonJournal",
+      "title": "DungeonJournal",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "1707971"
+        }
+      ]
+    },
+    {
       "name": "ForeverFishing",
       "sources": [
         {
           "kind": "curseforge",
           "ref": "1708816"
-        }
-      ]
-    },
-    {
-      "name": "GatheringTracker",
-      "sources": [
-        {
-          "kind": "curseforge",
-          "ref": "406104"
         }
       ]
     },
@@ -111,24 +113,6 @@
         {
           "kind": "curseforge",
           "ref": "4646"
-        }
-      ]
-    },
-    {
-      "name": "Polestar",
-      "sources": [
-        {
-          "kind": "github",
-          "ref": "fitzforge/polestar"
-        }
-      ]
-    },
-    {
-      "name": "Polestar_Nav",
-      "sources": [
-        {
-          "kind": "github",
-          "ref": "fitzforge/polestar"
         }
       ]
     },
@@ -193,6 +177,16 @@
         {
           "kind": "curseforge",
           "ref": "1708599"
+        }
+      ]
+    },
+    {
+      "name": "Syndicator",
+      "title": "Syndicator",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "988370"
         }
       ]
     },
