@@ -12,6 +12,16 @@
       ]
     },
     {
+      "name": "DamagePrediction",
+      "title": "Damage Prediction",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "BlackScorpion20/Damage-Prediction-releases"
+        }
+      ]
+    },
+    {
       "name": "EllesmereUI",
       "sources": [
         {
@@ -123,6 +133,16 @@
         {
           "kind": "curseforge",
           "ref": "574050"
+        }
+      ]
+    },
+    {
+      "name": "QuestAreaArrow",
+      "title": "Quest Area Arrow",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "BlackScorpion20/Quest-Area-Arrow-releases"
         }
       ]
     },
