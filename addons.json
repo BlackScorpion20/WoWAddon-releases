@@ -211,6 +211,16 @@
       ]
     },
     {
+      "name": "TalentPath",
+      "title": "TalentPath",
+      "sources": [
+        {
+          "kind": "github",
+          "ref": "BlackScorpion20/TalentPath-releases"
+        }
+      ]
+    },
+    {
       "name": "TradeSkillMaster",
       "title": "TradeSkillMaster",
       "sources": [
