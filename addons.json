@@ -105,6 +105,16 @@
       ]
     },
     {
+      "name": "LayerSwap",
+      "title": "Layer-Swap",
+      "sources": [
+        {
+          "kind": "curseforge",
+          "ref": "1710286"
+        }
+      ]
+    },
+    {
       "name": "OpenMap",
       "sources": [
         {
